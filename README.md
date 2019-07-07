@@ -1,2 +1,2 @@
-# lambda-aws-athena
-using with aws-athena on lambda function
+# AWS-Lambda-Athena
+Using with AWS athena on AWS lambda function.
