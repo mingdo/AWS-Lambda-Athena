@@ -30,11 +30,13 @@
 #### 통계 추출을 위해 관리자 서버에서 3개의 배치프로그램 실행
 > ##### Node.js 를 통한 로직 개선 및 비동기 작업으로 시간 단축
 
-# Before Architecture
-![UCloud Architecture](img/ucloud_goodsview_architecture.jpg)
+# Architecture
+#### before
+> ![UCloud Architecture](img/ucloud_goodsview_architecture.jpg)
 
-# After Architecture
-![AWS Architecture](img/aws_goodsview_architecture.png)
+# Architecture
+#### after
+> ![AWS Architecture](img/aws_goodsview_architecture.png)
 
 # Progress
 #### API 로그 엔드포인트 변경
