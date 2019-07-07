@@ -34,7 +34,7 @@
 > ![UCloud Architecture](img/ucloud_goodsview_architecture.jpg)
 
 # After Architecture
-> ![AWS Architecture](img/aws_goodsview_architecture.jpg)
+> ![AWS Architecture](img/aws_goodsview_architecture.png)
 
 # Progress
 #### API 로그 엔드포인트 변경
